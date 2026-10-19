@@ -1,0 +1,3 @@
+-r ../requirements.txt
+moomoo-api==10.11.7108
+exchange-calendars==4.13.2
